@@ -154,6 +154,10 @@ source venv/bin/activate && cd src && python main.py
 | Swipes don't register | Grant Accessibility permission in System Settings |
 | `tesseract` not found | Run `brew install tesseract` |
 
+## Usage Note
+
+A personal computer-vision and algorithms project, built for educational use to explore real-time OCR, graph search, and macOS systems programming.
+
 ## Credits
 
 Solver algorithm inspired by [k-gerner/Game-Pigeon-Solvers](https://github.com/k-gerner/Game-Pigeon-Solvers). Dictionary sourced from standard Scrabble word lists.
